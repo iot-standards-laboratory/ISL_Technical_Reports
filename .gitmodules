@@ -4,3 +4,6 @@
 [submodule "lecturehw.sctp_quic_capture"]
 	path = lecturehw/sctp_quic_capture
 	url = https://github.com/iot-standards-laboratory/lecturehw.sctp_quic_capture.git
+[submodule "programenv.golang"]
+	path = programenv/golang
+	url = https://github.com/iot-standards-laboratory/programenv.golang.git
