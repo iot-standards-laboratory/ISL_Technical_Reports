@@ -4,3 +4,6 @@
 [submodule "programenv.golang"]
 	path = programenv/golang
 	url = https://github.com/iot-standards-laboratory/programenv.golang.git
+[submodule "lecturehw.packetCapture"]
+	path = lecturehw/packetCapture
+	url = https://github.com/iot-standards-laboratory/packetCapture.git
