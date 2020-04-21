@@ -7,3 +7,6 @@
 [submodule "lecturehw/packetCapture"]
 	path = lecturehw/packetCapture
 	url = https://github.com/iot-standards-laboratory/lecturehw.packetCapture.git
+[submodule "samplecodes/go-coap"]
+	path = samplecodes/go-coap
+	url = https://github.com/iot-standards-laboratory/samplecode.go-coap.git
