@@ -10,3 +10,9 @@
 [submodule "samplecodes/go-coap"]
 	path = samplecodes/go-coap
 	url = https://github.com/iot-standards-laboratory/samplecode.go-coap.git
+[submodule "samplecodes/go-sctp"]
+	path = samplecodes/go-sctp
+	url = https://github.com/iot-standards-laboratory/samplecode.go-sctp.git
+[submodule "samplecodes/go-quic"]
+	path = samplecodes/go-quic
+	url = https://github.com/iot-standards-laboratory/samplecode.go-quic.git

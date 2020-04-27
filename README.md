@@ -6,5 +6,5 @@
 
 ## Lecture Homework
 
-- [Packet Capture (SCTP, QUIC)](https://github.com/iot-standards-laboratory/lecturehw.sctp_quic_capture)
+- [Packet Capture (SCTP, QUIC)](https://github.com/iot-standards-laboratory/lecturehw.packetCapture)
 
